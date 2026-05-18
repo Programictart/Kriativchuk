@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" href="лого.png">
 </head>
 <body>
-<H3 align="center"><i><b> Делаю аватарки, персонажей и многое другое! </b></i></H3>
+<H3 align="center"><i><b> Здесь я выкладываю свои рисунки! </b></i></H3>
 <meta charset="UTF-8">
 <title>Title</title>
 <hr>
